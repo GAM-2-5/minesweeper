@@ -1,2 +1,2 @@
 # minesweeper
-Program koji bi trebao proicirati tablicu tako da su stupci označeni slovima, a redovi brojevima te u njemu igrač mora pronaći mine. Ne znam još hoću li korititi grafiku za tablicu, polja, mine, itd. i hoće li se polja otvarati klikom miša ili kordinatama koje igrač upiše.
+Igra u kojoj je cilj u što manje vremena, na minskom polju, pronaći sve mine i označiti ih zastavicama. Oredi sam svoj level igre, od početnika do naprednog igrača te pokušaj ne stati u minu kojih je s razinom sve više i više.
